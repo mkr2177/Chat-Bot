@@ -25,12 +25,8 @@ This chatbot supports **multi-threaded conversations, chat history persistence (
 ---
 
 ## 🚀 Getting Started
-# Project Title
+## 📸 Demo Screenshots
 
-## 📸 Screenshots
-
-### Output 1
-![Output 1](screenshots/output1.png)
-
-### Output 2
-![Output 2](screenshots/output2.png)
+### 🖼️ App Preview
+![Screenshot 1](Screenshot%20(1446).png)
+![Screenshot 2](Screenshot%20(1447).png)
